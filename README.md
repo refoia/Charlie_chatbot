@@ -1,4 +1,4 @@
-Bien sûr ! Voici une description que tu peux utiliser pour ton projet sur GitHub. Elle explique brièvement les fonctionnalités de Charlie, les technologies utilisées, et invite les utilisateurs à contribuer. Cela donne aux visiteurs un aperçu clair de ce qu'ils peuvent attendre du projet.
+ 
 
 ---
 
